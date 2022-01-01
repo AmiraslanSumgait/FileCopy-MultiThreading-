@@ -1,0 +1,109 @@
+﻿<Window x:Class="CopyFileWithThread.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CopyFileWithThread"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid  Height="450" Width="800" Background="Coral">
+        <Label
+            Content="From"
+            FontSize="18"
+            Height="30"
+            Width="100"
+            Margin="0,0,500,110">
+
+        </Label>
+
+        <Label
+            Content="Create file and Copy there"
+            FontSize="14"
+            Height="30"
+            Margin="10,201,610,203"/>
+
+        <TextBox
+            Height="28"
+            Width="450"
+            Margin="0,0,0,100"
+            Name="txb_from">
+
+        </TextBox>
+
+        <TextBox
+            Height="28"
+            Width="450"
+            Margin="0,0,0,0"
+            Name="txb_to">
+
+        </TextBox>
+
+
+
+        <Button
+            Height="26"
+            Width="80"
+            FontSize="18"
+            Name="btn_filefrom"
+            Margin="550,0,0,100"
+            Content="File..." 
+            Click="btn_filefrom_Click"
+          >
+
+        </Button>
+
+        <Button
+            Height="26"
+            Width="80"
+            FontSize="18"
+            Margin="550,0,0,0"
+            Name="btn_to"
+            Content="File..."
+            Click="btn_to_Click"
+           >
+
+        </Button>
+
+        <ProgressBar
+            Height="26"
+            Margin="175,252,174,172"
+            x:Name="progressbar"/>
+
+        <Button
+            Height="26"
+            Width="80"
+            FontSize="18"
+            Margin="550,0,0,-75"
+            Content="Copy"
+            Name="btn_copy"
+            Click="btn_copy_Click"
+          >
+
+        </Button>
+
+        <Button
+            Height="26"
+            Width="80"
+            FontSize="18"
+            Margin="-500,0,0,-150"
+            Content="Resume"
+            Name="btn_resume"
+            Click="btn_resume_Click"
+            >
+
+        </Button>
+
+        <Button
+            Height="26"
+            Width="80"
+            FontSize="18"
+            Margin="210,279,510,129"
+            Content="Suspend"
+            Name="btn_suspend"
+             Click="btn_suspend_Click"
+           >
+
+        </Button>
+
+    </Grid>
+</Window>

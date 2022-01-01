@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0596e80c-b65d-40b2-89d3-828334f06cee": {
+      "ProjectGuid": "0596e80c-b65d-40b2-89d3-828334f06cee",
+      "DisplayName": "CopyFileWithThread",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

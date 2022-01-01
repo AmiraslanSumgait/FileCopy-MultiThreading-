@@ -1,0 +1,16 @@
+C:\Users\Amiraslan\source\repos\CopyFileWithThread\CopyFileWithThread\bin\Debug\CopyFileWithThread.exe.config
+C:\Users\Amiraslan\source\repos\CopyFileWithThread\CopyFileWithThread\bin\Debug\CopyFileWithThread.exe
+C:\Users\Amiraslan\source\repos\CopyFileWithThread\CopyFileWithThread\bin\Debug\CopyFileWithThread.pdb
+C:\Users\Amiraslan\source\repos\CopyFileWithThread\CopyFileWithThread\obj\Debug\CopyFileWithThread.csproj.AssemblyReference.cache
+C:\Users\Amiraslan\source\repos\CopyFileWithThread\CopyFileWithThread\obj\Debug\CopyFileWithThread.csproj.SuggestedBindingRedirects.cache
+C:\Users\Amiraslan\source\repos\CopyFileWithThread\CopyFileWithThread\obj\Debug\MainWindow.g.cs
+C:\Users\Amiraslan\source\repos\CopyFileWithThread\CopyFileWithThread\obj\Debug\App.g.cs
+C:\Users\Amiraslan\source\repos\CopyFileWithThread\CopyFileWithThread\obj\Debug\CopyFileWithThread_MarkupCompile.cache
+C:\Users\Amiraslan\source\repos\CopyFileWithThread\CopyFileWithThread\obj\Debug\CopyFileWithThread_MarkupCompile.lref
+C:\Users\Amiraslan\source\repos\CopyFileWithThread\CopyFileWithThread\obj\Debug\MainWindow.baml
+C:\Users\Amiraslan\source\repos\CopyFileWithThread\CopyFileWithThread\obj\Debug\CopyFileWithThread.g.resources
+C:\Users\Amiraslan\source\repos\CopyFileWithThread\CopyFileWithThread\obj\Debug\CopyFileWithThread.Properties.Resources.resources
+C:\Users\Amiraslan\source\repos\CopyFileWithThread\CopyFileWithThread\obj\Debug\CopyFileWithThread.csproj.GenerateResource.cache
+C:\Users\Amiraslan\source\repos\CopyFileWithThread\CopyFileWithThread\obj\Debug\CopyFileWithThread.csproj.CoreCompileInputs.cache
+C:\Users\Amiraslan\source\repos\CopyFileWithThread\CopyFileWithThread\obj\Debug\CopyFileWithThread.exe
+C:\Users\Amiraslan\source\repos\CopyFileWithThread\CopyFileWithThread\obj\Debug\CopyFileWithThread.pdb
